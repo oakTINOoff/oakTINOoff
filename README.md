@@ -11,8 +11,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oakTINOoff&layout=compact&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oakTINOoff&layout=compact&theme=radical&langs_count=10)
 
 
 
