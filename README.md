@@ -11,7 +11,8 @@
 
 
 
-![Top Languages]((https://github-readme-stats.vercel.app/api/top-langs/?username=oaktinooff))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oakTINOoff&layout=compact)
+
 
 
 🎮 **Gamer at heart:**
