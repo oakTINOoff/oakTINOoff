@@ -26,8 +26,8 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oakTINOoff&show_icons=true&theme=radical)
 
 🚀 **Projects:**
-- [Oakie (PRIVATE)]((https://discord.com/api/oauth2/authorize?client_id=1067529466999492628&permissions=8&integration_type=0&scope=bot+applications.commands)): A multi-purpose Discord bot
-- [hackerfolio](https://oaktino.pro/oak): A personal portfolio website with terminal style (might need help)
+- [Oakie (PRIVATE)](https://discord.com/api/oauth2/authorize?client_id=1067529466999492628&permissions=8&integration_type=0&scope=bot+applications.commands): A multi-purpose Discord bot
+- [hackerfolio](https://oaktino.pro): A personal portfolio website with terminal style (might need help)
 
 
 ---
