@@ -12,8 +12,8 @@
 
 📊 **GitHub Stats:**
 
-![My stats](https://github-stats-extended.vercel.app/api?username=oakTINOff&custom_title=My%20stats%3A&show_icons=true&include_all_commits=true&theme=radical)
-![Top languages](https://github-stats-extended.vercel.app/api/top-langs?username=oakTINOff&layout=compact&langs_count=10&theme=radical)
+![My stats](https://github-stats-extended.vercel.app/api?username=oakTINOoff&custom_title=My%20stats%3A&show_icons=true&include_all_commits=true&theme=radical)
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs?username=oakTINOoff&layout=compact&langs_count=10&theme=radical)
 
 ---
 
