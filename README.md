@@ -12,11 +12,11 @@
 
 📊 **GitHub Stats:**
 
-[Top-Langs](https://github-stats-extended.vercel.app/api/top-langs?username=oakTINOoff&layout=compact&langs_count=10&theme=radical)
+https://github-stats-extended.vercel.app/api/top-langs?username=oakTINOoff&layout=compact&langs_count=10&theme=radical
 
 
 
-[Github-Stats](https://github-stats-extended.vercel.app/api?username=oakTINOoff&custom_title=My%20stats%3A&show_icons=true&include_all_commits=true&theme=radical)
+https://github-stats-extended.vercel.app/api?username=oakTINOoff&custom_title=My%20stats%3A&show_icons=true&include_all_commits=true&theme=radical
 
 ---
 
